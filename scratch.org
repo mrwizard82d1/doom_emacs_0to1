@@ -1,0 +1,33 @@
+#+title: Scratch
+
+* headline 1
+
+Some text under the first headline.
+
+* headline 1a
+
+Some more text under headline 1a.
+Focusing on a single headline.
+
+* headline 2
+
+And still more text under headline 2.
+
+** linking
+
+[[https://www.google.com][Google]]
+[[https://www.amazon.com][Amazon]]
+
+[[http://www.facebook.com][Facebook]]
+
+** checkboxes
+
+- [-] Write an article[3/6]
+  - [X] Make an outline
+  - [X] Add content
+  - [ ] Add tags
+  - [X] Preview and edit
+  - [ ] Publish
+  - [ ] Tweet about it with link
+- [-] Viral campagin [%]
+  - [ ] Pay million$ during the superbowl
